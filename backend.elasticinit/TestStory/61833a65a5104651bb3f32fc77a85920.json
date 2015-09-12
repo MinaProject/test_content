@@ -1,0 +1,14 @@
+{
+  "category": 1, 
+  "body": "codie is awesome", 
+  "uuid": "61833a65a5104651bb3f32fc77a85920", 
+  "author": "codie", 
+  "title": "my story", 
+  "_version": {
+    "package_version": "1.4.1", 
+    "language_version": "2.7.10", 
+    "language": "python", 
+    "language_version_string": "2.7.10 (default, Jul 14 2015, 19:46:27) \n[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)]", 
+    "package": "elastic-git"
+  }
+}
