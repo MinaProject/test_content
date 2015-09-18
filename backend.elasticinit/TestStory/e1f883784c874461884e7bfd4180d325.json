@@ -1,0 +1,16 @@
+{
+  "category": 1, 
+  "body": "foobar", 
+  "uuid": "e1f883784c874461884e7bfd4180d325", 
+  "author": "a8230aca7b3943edbbe4e89755450fbb", 
+  "title": "foo", 
+  "_version": {
+    "package_version": "1.4.1", 
+    "language_version": "2.7.10", 
+    "language": "python", 
+    "language_version_string": "2.7.10 (default, Jul 14 2015, 19:46:27) \n[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)]", 
+    "package": "elastic-git"
+  }, 
+  "co_authors": null, 
+  "update_count": null
+}
